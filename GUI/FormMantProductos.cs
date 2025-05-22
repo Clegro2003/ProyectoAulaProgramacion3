@@ -203,5 +203,10 @@ namespace GUI
             txtCantidad.Text = "";
 
         }
+
+        private void FormMantProductos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

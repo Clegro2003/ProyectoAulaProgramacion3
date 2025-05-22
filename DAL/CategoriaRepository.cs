@@ -34,13 +34,14 @@ namespace DAL
             {
                 AbrirConexion();
 
-                using (NpgsqlCommand Comando = new NpgsqlCommand("INSERT INTO postgres.\"FullGestion\".categorias(idcategoria, nombrecategoria) VALUES (@IDCategoria, @NombreCategoria)", conexion))
+                using (NpgsqlCommand comando = new NpgsqlCommand(
+                        "INSERT INTO postgres.\"FullGestion\".categorias(idcategoria, nombrecategoria) " +
+                        "VALUES (@idcategoria::integer, @nombrecategoria)",conexion))
                 {
-                    Comando.CommandType = CommandType.Text;
-                    Comando.Parameters.AddWithValue("@idcategoria", categoria.IDCategoria);
-                    Comando.Parameters.AddWithValue("@nombrecategoria", categoria.NombreCategoria);
+                    comando.Parameters.AddWithValue("@idcategoria", categoria.IDCategoria);
+                    comando.Parameters.AddWithValue("@nombrecategoria", categoria.NombreCategoria);
 
-                    Comando.ExecuteNonQuery();
+                    comando.ExecuteNonQuery();
                 }
 
                 return true;
@@ -62,11 +63,11 @@ namespace DAL
                 AbrirConexion();
                 using (NpgsqlCommand comando = new NpgsqlCommand("SELECT COUNT(*) FROM postgres.\"FullGestion\".categorias WHERE idcategoria = @p_id_categoria", conexion))
                 {
-                    comando.Parameters.AddWithValue("@p_id_categoria", idcategoria);
+                    comando.Parameters.AddWithValue("@p_id_categoria", Convert.ToInt32(idcategoria));
                     int count = Convert.ToInt32(comando.ExecuteScalar());
                     return count > 0;
                 }
-                cw
+                //Console.WriteLine("adsadadsad");
             }
             catch (Exception)
             {

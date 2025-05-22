@@ -98,5 +98,10 @@ namespace GUI
                 MessageBox.Show(xe.Message);
             }
         }
+
+        private void FormPagos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

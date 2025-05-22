@@ -27,7 +27,7 @@ namespace DAL
                     IDCategoria = new Categoria(reader.GetInt32(reader.GetOrdinal("idcategoria")).ToString(), ""),
                     NombreProducto = reader.GetString(reader.GetOrdinal("nombre_producto")),
                     PrecioVenta = reader.GetDecimal(reader.GetOrdinal("precio_venta")),
-                    Cantidad = reader.GetDecimal(reader.GetOrdinal("stock"))
+                    Cantidad = reader.GetInt32(reader.GetOrdinal("stock")) // Convertir a int
                 });
             }
 
@@ -38,9 +38,9 @@ namespace DAL
         public bool GuardarProducto(Productos producto)
         {
             string sentencia = @"INSERT INTO postgres.""FullGestion"".productos (
-                                     nombre_producto, precio_venta, stock, precio_compra, id_categoria
+                                     nombre_producto, precio_venta, stock, precio_compra, idcategoria
                                  ) VALUES (
-                                     @nombre, 0, 0, 0, @id_categoria
+                                     @nombre, @precio, @stock, @precio_compra, @idcategoria
                                  )";
 
             try
@@ -49,15 +49,19 @@ namespace DAL
                 using (NpgsqlCommand comando = new NpgsqlCommand(sentencia, conexion))
                 {
                     comando.Parameters.AddWithValue("@nombre", producto.NombreProducto);
-                    comando.Parameters.AddWithValue("@id_categoria", int.Parse(producto.IDCategoria.IDCategoria));
+                    comando.Parameters.AddWithValue("@precio", producto.PrecioVenta);
+                    comando.Parameters.AddWithValue("@stock", producto.Cantidad);
+                    comando.Parameters.AddWithValue("@precio_compra", 0); // Ajustable si se requiere otro valor
+                    comando.Parameters.AddWithValue("@idcategoria", int.Parse(producto.IDCategoria.IDCategoria));
 
                     comando.ExecuteNonQuery();
                 }
 
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                Console.WriteLine($"Error al guardar producto: {ex.Message}");
                 return false;
             }
             finally

@@ -166,6 +166,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormPagos";
             this.Text = "FormPagos";
+            this.Load += new System.EventHandler(this.FormPagos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvPagos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

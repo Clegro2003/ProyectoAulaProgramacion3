@@ -281,6 +281,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormMantProductos";
             this.Text = "FormMantProductos";
+            this.Load += new System.EventHandler(this.FormMantProductos_Load);
             this.BarraTitulo.ResumeLayout(false);
             this.BarraTitulo.PerformLayout();
             this.ResumeLayout(false);
