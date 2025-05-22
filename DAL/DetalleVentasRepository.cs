@@ -26,7 +26,7 @@ namespace DAL
                 lista.Add(new DetallesVentas
                 {
                     IDVenta = reader.GetInt32(reader.GetOrdinal("idventa")),
-                    IDProducto = reader.GetInt32(reader.GetOrdinal("id_producto")),
+                    //IDProducto = reader.GetInt32(reader.GetOrdinal("id_producto")),
                     NombreProducto = reader.GetString(reader.GetOrdinal("nombre_producto")),
                     CantidadLibras = reader.GetInt32(reader.GetOrdinal("cantidadlibras")),
                     PrecioLibra = reader.GetDecimal(reader.GetOrdinal("preciolibra")),
@@ -35,10 +35,10 @@ namespace DAL
                     ApellidoCliente = reader.GetString(reader.GetOrdinal("apellidocliente")),
                     IDFactura = reader.GetInt32(reader.GetOrdinal("id_factura")),
                     FechaFactura = reader.GetDateTime(reader.GetOrdinal("fecha_factura")),
-                    Total = reader.GetDecimal(reader.GetOrdinal("total")),
+                    //Total = reader.GetDecimal(reader.GetOrdinal("total")),
                     Monto = reader.GetDecimal(reader.GetOrdinal("monto")),
                     Vueltos = reader.GetDecimal(reader.GetOrdinal("vueltos")),
-                    IDMetodoPago = reader.GetInt32(reader.GetOrdinal("id_metodopago")),
+                    //IDMetodoPago = reader.GetInt32(reader.GetOrdinal("id_metodopago")),
                     MetodoDePago = reader.GetString(reader.GetOrdinal("metododepago"))
                 });
             }

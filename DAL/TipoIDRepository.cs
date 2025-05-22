@@ -10,7 +10,7 @@ namespace DAL
         public List<TipoID> ObtenerTipos()
         {
             List<TipoID> Tipos = new List<TipoID>();
-            string sentencia = "SELECT idtipo, nombre FROM postgres.\"FullGestion\".tipoid";
+            string sentencia = "SELECT idtipo, nombre FROM postgres.\"FullGestion\".identificaciones";
             NpgsqlCommand cmd = new NpgsqlCommand(sentencia, conexion);
 
             AbrirConexion();
@@ -18,7 +18,7 @@ namespace DAL
 
             while (reader.Read())
             {
-                Tipos.Add(new TipoID(reader.GetString(0), reader.GetString(1)));
+                Tipos.Add(new TipoID(reader.GetInt32(reader.GetOrdinal("idtipo")).ToString(), reader.GetString(1)));
             }
 
             CerrarConexion();
