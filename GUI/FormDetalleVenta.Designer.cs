@@ -54,23 +54,25 @@
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.BackColor = System.Drawing.Color.Silver;
+            this.label1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(4, 31);
+            this.label1.Location = new System.Drawing.Point(3, 25);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1323, 589);
+            this.label1.Size = new System.Drawing.Size(992, 479);
             this.label1.TabIndex = 3;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Silver;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(47, 54);
+            this.label2.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.label2.Font = new System.Drawing.Font("Elephant", 17.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(35, 44);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(199, 32);
+            this.label2.Size = new System.Drawing.Size(182, 30);
             this.label2.TabIndex = 4;
             this.label2.Text = "Detalle Venta";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -81,6 +83,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvTablaDetallesVentas.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvTablaDetallesVentas.BackgroundColor = System.Drawing.SystemColors.GradientActiveCaption;
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -102,11 +105,12 @@
             this.ApellidoCliente,
             this.FechaFactura,
             this.MetodoDePago});
-            this.dgvTablaDetallesVentas.Location = new System.Drawing.Point(12, 103);
+            this.dgvTablaDetallesVentas.Location = new System.Drawing.Point(9, 84);
+            this.dgvTablaDetallesVentas.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dgvTablaDetallesVentas.Name = "dgvTablaDetallesVentas";
             this.dgvTablaDetallesVentas.RowHeadersWidth = 51;
             this.dgvTablaDetallesVentas.RowTemplate.Height = 24;
-            this.dgvTablaDetallesVentas.Size = new System.Drawing.Size(1272, 341);
+            this.dgvTablaDetallesVentas.Size = new System.Drawing.Size(954, 277);
             this.dgvTablaDetallesVentas.TabIndex = 11;
             // 
             // IDVenta
@@ -183,9 +187,10 @@
             this.btnDescargaPDF.IconColor = System.Drawing.Color.Black;
             this.btnDescargaPDF.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnDescargaPDF.IconSize = 20;
-            this.btnDescargaPDF.Location = new System.Drawing.Point(1119, 504);
+            this.btnDescargaPDF.Location = new System.Drawing.Point(839, 410);
+            this.btnDescargaPDF.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnDescargaPDF.Name = "btnDescargaPDF";
-            this.btnDescargaPDF.Size = new System.Drawing.Size(151, 45);
+            this.btnDescargaPDF.Size = new System.Drawing.Size(113, 37);
             this.btnDescargaPDF.TabIndex = 18;
             this.btnDescargaPDF.Text = "Descargar PDF";
             this.btnDescargaPDF.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -198,26 +203,26 @@
             this.BtnCerrar.FlatAppearance.BorderSize = 0;
             this.BtnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BtnCerrar.Image = ((System.Drawing.Image)(resources.GetObject("BtnCerrar.Image")));
-            this.BtnCerrar.Location = new System.Drawing.Point(13, 54);
-            this.BtnCerrar.Margin = new System.Windows.Forms.Padding(4);
+            this.BtnCerrar.Location = new System.Drawing.Point(10, 44);
             this.BtnCerrar.Name = "BtnCerrar";
-            this.BtnCerrar.Size = new System.Drawing.Size(32, 28);
+            this.BtnCerrar.Size = new System.Drawing.Size(24, 23);
             this.BtnCerrar.TabIndex = 19;
             this.BtnCerrar.UseVisualStyleBackColor = true;
             this.BtnCerrar.Click += new System.EventHandler(this.BtnCerrar_Click);
             // 
             // FormDetalleVenta
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(1296, 740);
+            this.ClientSize = new System.Drawing.Size(972, 601);
             this.Controls.Add(this.BtnCerrar);
             this.Controls.Add(this.btnDescargaPDF);
             this.Controls.Add(this.dgvTablaDetallesVentas);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FormDetalleVenta";
             this.Text = "FormDetalleVenta";
             ((System.ComponentModel.ISupportInitialize)(this.dgvTablaDetallesVentas)).EndInit();

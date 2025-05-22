@@ -150,6 +150,10 @@ namespace GUI
             }
         }
 
+        private void dgvTablaProductos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
 

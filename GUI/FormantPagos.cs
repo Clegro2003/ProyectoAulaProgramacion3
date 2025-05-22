@@ -146,5 +146,10 @@ namespace GUI
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
+
+        private void FormantPagos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
