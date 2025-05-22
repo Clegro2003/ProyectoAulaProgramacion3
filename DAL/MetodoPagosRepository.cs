@@ -31,7 +31,7 @@ namespace DAL
 
         public bool GuardarMetodo(MetodoPagos metodo)
         {
-            string sentencia = @"INSERT INTO postgres.""FullGestion"".metodopago(nombre_metodopago) VALUES (@nombre)";
+            string sentencia = @"INSERT INTO ""FullGestion"".metodopago (id_metodopago, nombre_metodopago) VALUES (@id_metodopago::integer, @nombre_metodopago)";
 
             try
             {
@@ -39,7 +39,8 @@ namespace DAL
 
                 using (NpgsqlCommand comando = new NpgsqlCommand(sentencia, conexion))
                 {
-                    comando.Parameters.AddWithValue("@nombre", metodo.NombreMetodo);
+                    comando.Parameters.AddWithValue("@id_metodopago", metodo.IDPago);
+                    comando.Parameters.AddWithValue("@nombre_metodopago", metodo.NombreMetodo);
                     comando.ExecuteNonQuery();
                 }
 
