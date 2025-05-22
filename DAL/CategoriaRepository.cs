@@ -66,6 +66,7 @@ namespace DAL
                     int count = Convert.ToInt32(comando.ExecuteScalar());
                     return count > 0;
                 }
+                cw
             }
             catch (Exception)
             {
