@@ -1,0 +1,12 @@
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ENTITY\obj\Debug\ENTITY.pdb

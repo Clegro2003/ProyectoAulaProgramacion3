@@ -1,0 +1,219 @@
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\GUI.exe
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\GUI.pdb
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\DAL.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\ENTITY.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\ProyectoAula.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\DAL.pdb
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\ENTITY.pdb
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\ProyectoAula.pdb
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.g.resources
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormListaProveedores.resources
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormMantProductos.resources
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormMantProveedor.resources
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.gui.resources
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.Login.resources
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.exe
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.pdb
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormWelcome.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormLogo.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormCompras.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormDetalleCompra.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.Modales.mdProveedor.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormVentas.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormDetalleVenta.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\GUI.exe.config
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Text.Json.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Formats.Asn1.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Memory.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Buffers.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\DAL.dll.config
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\ProyectoAula.dll.config
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Text.Json.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Formats.Asn1.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Memory.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Buffers.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormListaProductos.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.barcodes.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.commons.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.forms.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.io.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.kernel.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.layout.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.pdfa.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.pdfua.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.sign.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.styledxmlparser.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.svg.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.barcodes.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.commons.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.forms.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.io.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.kernel.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.layout.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.pdfa.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.pdfua.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.sign.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.styledxmlparser.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.svg.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.Core.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.pdb
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.Core.pdb
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.Core.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormPagos.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormantPagos.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormListaCategorias.resources
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormantCategorias.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\GUI.exe.config
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\GUI.exe
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\GUI.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.Core.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\DAL.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\ENTITY.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.barcodes.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.commons.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.forms.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.io.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.kernel.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.layout.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.pdfa.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.pdfua.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.sign.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.styledxmlparser.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.svg.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\ProyectoAula.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Buffers.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Memory.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Npgsql.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Text.Json.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\DAL.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\DAL.dll.config
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\ENTITY.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\ProyectoAula.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\ProyectoAula.dll.config
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.Core.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Common.Logging.Core.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.barcodes.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.commons.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.forms.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.io.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.kernel.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.layout.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.pdfa.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.pdfua.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.sign.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.styledxmlparser.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\itext.svg.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Buffers.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Memory.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\Npgsql.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Text.Json.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.g.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormantCategorias.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormantPagos.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormCompras.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormDetalleCompra.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormDetalleVenta.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormListaCategorias.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormListaProveedores.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormLogo.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormMantProductos.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormMantProveedor.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormPagos.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormVentas.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormWelcome.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.gui.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.login.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.Modales.mdProveedor.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.FormListaProductos.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.exe
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\GUI\obj\Debug\GUI.pdb

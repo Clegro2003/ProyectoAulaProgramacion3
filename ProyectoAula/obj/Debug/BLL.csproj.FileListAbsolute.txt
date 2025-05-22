@@ -1,0 +1,77 @@
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ProyectoAula.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ProyectoAula.pdb
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\DAL.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ENTITY.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\DAL.pdb
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ENTITY.pdb
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\BLL.csproj.Up2Date
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\ProyectoAula.dll
+C:\Users\jjrom\Source\Repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\ProyectoAula.pdb
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ProyectoAula.dll.config
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Buffers.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Formats.Asn1.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Memory.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Text.Json.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.ValueTuple.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\DAL.dll.config
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Buffers.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Formats.Asn1.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Memory.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Text.Json.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.ValueTuple.xml
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jjrom\source\repos\G4ru75\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.IO.Pipelines.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ProyectoAula.dll.config
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ProyectoAula.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ProyectoAula.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\DAL.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ENTITY.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Buffers.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Formats.Asn1.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.IO.Pipelines.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Memory.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Text.Json.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\Npgsql.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\DAL.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\DAL.dll.config
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\ENTITY.pdb
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Buffers.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Formats.Asn1.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.IO.Pipelines.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Memory.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Text.Json.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\bin\Debug\Npgsql.xml
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\BLL.csproj.Up2Date
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\ProyectoAula.dll
+C:\Users\carlo\Downloads\Proyecto de Aula P3\ProyectoAulaProgramacion\ProyectoAulaProgramacion\ProyectoAula\obj\Debug\ProyectoAula.pdb
